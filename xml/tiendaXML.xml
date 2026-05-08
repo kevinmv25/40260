@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pedido SYSTEM "pedido.dtd">
+
+<pedido>
+    <cliente>
+        <nombre>Kevin</nombre>
+    </cliente>
+    <producto>
+        <nombre>Perfume</nombre>
+        <precio>850</precio>
+    </producto>
+    <cantidad>1</cantidad>
+</pedido>

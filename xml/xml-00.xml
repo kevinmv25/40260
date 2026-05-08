@@ -1,0 +1,15 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<!DOCTYPE direccion SYSTEM "">
+<direccion>
+    <nombreCompleto>
+        <nombre>Kevin Miguel</nombre>
+        <apellidos>Garcia M</apellidos> 
+    </nombreCompleto>
+    <correo>garciamontane@gmail.com</correo>
+    <telefono>2281717130</telefono>
+    <cumple>
+        <dia>25</dia>
+        <mes>5</mes>
+        <anio>2005</anio>
+    </cumple>
+<direccion>
